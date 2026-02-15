@@ -1,0 +1,7 @@
+{
+  "name": "Peace. Cafe AI Waiter",
+  "description": "A minimal, aesthetic landing page for an AI-powered cafe assistant with a focus on human-centric design and high-end tech integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
